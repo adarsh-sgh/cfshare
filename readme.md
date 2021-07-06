@@ -9,7 +9,7 @@
 
 
 ## How To Export Favourite Questions 
-1. Go To https://codeforces.com/favourite/problems (make sure your favourite problems are showing on page)
+1. Go To [https://codeforces.com/favourite/problems](https://codeforces.com/favourite/problems) (make sure your favourite problems are showing on page)
 2. Click on Export Bookmarklet Link
 3. Copy and share the text containing list of problems
 
