@@ -6,7 +6,7 @@
 <a href="javascript:(function() {let input=prompt('Paste the problems to import');let problems=input.split(',');document.body.innerHTML='';problems.forEach(id=>buttonFromId(id));function buttonFromId(problemId){let link=`https://codeforces.com/contest/${parseInt(problemId)}/problem/${problemId.replace(/^\d+/,'')}`;let htmlTemplate=`<a href='${link}'> Problem ${problemId} </a><br><br>`;document.body.innerHTML+=htmlTemplate;}})()">Import</a>
 
 <a href="javascript:(function () {let problems=[];let elements=document.querySelectorAll('td.id.left');elements.forEach(e=>problems.push(e.innerText));prompt('ctrl+c to copy',String(problems))})()">Export</a>
-
+> above links not active ? they must be active on https://lkithakur.github.io/cfshare/
 
 ## How To Export Favourite Questions 
 1. Go To [https://codeforces.com/favourite/problems](https://codeforces.com/favourite/problems) (make sure your favourite problems are showing on page)
