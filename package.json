@@ -1,0 +1,30 @@
+{
+  "name": "cfstarsharing",
+  "version": "1.0.0",
+  "description": "Bookmarklet to share starred questions on codeforces",
+  "main": "readme.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lkiThakur/cfshare.git"
+  },
+  "keywords": [
+    "codeforces",
+    "cf",
+    "share",
+    "sharing",
+    "starred",
+    "questions"
+  ],
+  "author": "Adarsh Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lkiThakur/cfshare/issues"
+  },
+  "homepage": "https://github.com/lkiThakur/cfshare#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
